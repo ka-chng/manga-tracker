@@ -12,5 +12,5 @@ pip install tkinter
 ```
 # Usuage 
 ```
-To run the program, cd into the file directory and run python3 tracker.py
+To run the program, cd into the file directory and run (python3 tracker.py)
 ```
